@@ -1,0 +1,24 @@
+column_name,description
+Customer ID,Unique identifier for each customer
+Name,Full name of the customer
+Email,Customer email address
+Phone,Contact number of the customer
+Address,Street address of the customer
+City,City of residence
+State,State of residence
+Zipcode,Postal code of the customer
+Country,Country of residence
+Age,Age of the customer
+Gender,Gender of the customer
+Income,Income bracket or level of the customer
+Customer Segment,Classification based on behavior or demographics
+Last Purchase Date,Most recent purchase date
+Total Purchases,Total number of purchases made
+Amount Spent,Total monetary amount spent
+Product Category,Category of the purchased product
+Product Brand,Brand of the purchased product
+Product Type,Specific type or model of the purchased product
+Feedback,Customer feedback or rating on the product/service
+Shipping Method,Delivery method used for the order
+Payment Method,Payment method chosen by the customer
+Order Status,"Current status of the order (e.g., shipped, delivered, canceled)"
