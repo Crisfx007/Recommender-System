@@ -82,8 +82,8 @@ User Features          Item Features
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/two-tower-recommender.git
-cd two-tower-recommender
+git clone https://github.com/yourusername/Recommender-System.git
+cd Recommender-System
 
 # Create virtual environment (optional)
 python -m venv venv
